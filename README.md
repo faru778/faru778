@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and LLM**
 
-- 👯 I’m looking to collaborate on a Data analysis Project **Time series and Panel data project**
+- 👯 I’m looking to collaborate on a Odoo Implemntations, Data analysis Project **Time series and Panel data project**
 
 - 👨‍💻 All of my projects are available at [https://faruhaikal.wixsite.com/iamfarman](https://faruhaikal.wixsite.com/iamfarman)
 
